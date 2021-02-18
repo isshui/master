@@ -30,6 +30,8 @@
 
 ## 大佬脚本
 
+* [lxk0301_gallery.json](https://gitee.com/lxk0301/jd_scripts/raw/master/QuantumultX/lxk0301_gallery.json)京东
+
 * [erdongchanyo_TikTok_US.conf](https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/TikTok/18.3.0/TikTok_US.conf) TikTok US
 
 * [General.conf](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf) 神机规则重定向
