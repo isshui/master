@@ -28,6 +28,16 @@
 * [Shui_Task.json](https://raw.githubusercontent.com/isshui/master/main/Shui_Task.json) 定时任务远程配置。
 
 
+## 大佬脚本
+
+* [erdongchanyo_TikTok_US.conf](https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/TikTok/18.3.0/TikTok_US.conf) TikTok US
+
+* [General.conf](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf) 神机规则重定向
+
+* [Advertising.conf](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf) 神机去广告规则
+
+
+
 ## 免责声明：
 
 * 本人项目中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请勿使用。.
@@ -41,7 +51,7 @@
 * 如私自使用本人对任何脚本问题概不负责，包括但不限于由任何脚本错误导致的任何损失或损害. 
 
 
-### 定时任务使用方法。
+### 自用定时任务使用方法。
 京东
 * 多合一签到
 * 初次使用时, app配置文件添加脚本配置,并启用Mitm后, Safari浏览器打开登录 https://bean.m.jd.com/bean/signIndex.action ,点击签到并且出现签到日历后, 如果通知获得cookie成功, 则可以使用此签到脚本。 注: 请勿在京东APP内获取!!!
