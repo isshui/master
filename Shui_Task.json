@@ -1,0 +1,8 @@
+{
+ "name": "Shui_diy gallery",
+ "description": "自用task脚本",
+ "task": [
+    "9 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.js, tag=美团外卖, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wmmeituan.png,enabled=true",
+    "10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js, tag=美团, img-url=https://raw.githubusercontent.com/Orz-3/task/master/meituan.png,enabled=true",
+  ]
+}
