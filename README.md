@@ -21,7 +21,7 @@
 
 * [JD_TB.conf](https://raw.githubusercontent.com/isshui/master/blob/main/JD_TB.conf)京东淘宝比价
 
-* [Vip.conf](https://raw.githubusercontent.com/isshui/master/blob/main/Vip.conf) 各类VIP
+* [Vip.conf] （https://raw.githubusercontent.com/isshui/master/main/Vip.conf）各类VIP
 
 * [ZY_Cookie.conf](https://raw.githubusercontent.com/isshui/master/main/ZY_Cookie.conf)自用Cookie获取。
 
