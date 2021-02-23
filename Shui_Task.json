@@ -11,6 +11,6 @@
     "1,2,3 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=贴吧, img-url=https://raw.githubusercontent.com/Orz-3/task/master/tieba.png,enabled=true",
     "1 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/task/master/iQIYI.png,enabled=true",
     "12 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/haidilao/hdl.js, tag=海底捞, img-url=https://raw.githubusercontent.com/Orz-3/task/master/haidilao.png,enabled=true",
-    "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Naixue/Naixue.js，tag=奈雪，img-url = https：//raw.githubusercontent.com/Orz-3 /task/master/Naixue.png，enabled=false"
+    "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Naixue/Naixue.js, tag=奈雪, img-url=https://raw.githubusercontent.com/Orz-3/task/master/Naixue.png,enabled=true"
   ]
 }
